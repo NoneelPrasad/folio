@@ -10,6 +10,7 @@ function Work() {
             
             <Seperator />
             <label className='section-title'>Work</label>
+            <label className="section-title-detail">For detailed info please download Resume</label>
             <div className='work-list'>
                 {data.map((item)=>{
                     return(

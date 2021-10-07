@@ -12,6 +12,15 @@
     height: 80px;
 }
 
+.company-name{
+   font-size: 18px; 
+}
+
+.designation{
+    font-size: 15px;
+    font-weight: 600;
+}
+
 .work-info{
     display: flex;
     align-items: flex-start;

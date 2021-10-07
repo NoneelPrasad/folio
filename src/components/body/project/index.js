@@ -9,6 +9,7 @@ function Project() {
         <div className='projects'>
             <Seperator/>
             <label className="section-title">Projects</label>
+            <label className="section-title-detail">Personal Projects Only</label>
             <div>
                 {data.map((project)=>{
                     return <ProjectCard project={project}/>
