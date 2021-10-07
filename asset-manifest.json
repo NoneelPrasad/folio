@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/folio/static/css/main.bea049f8.chunk.css",
+    "main.js": "/folio/static/js/main.d886bbea.chunk.js",
+    "main.js.map": "/folio/static/js/main.d886bbea.chunk.js.map",
+    "runtime-main.js": "/folio/static/js/runtime-main.e5430cca.js",
+    "runtime-main.js.map": "/folio/static/js/runtime-main.e5430cca.js.map",
+    "static/js/2.bb289251.chunk.js": "/folio/static/js/2.bb289251.chunk.js",
+    "static/js/2.bb289251.chunk.js.map": "/folio/static/js/2.bb289251.chunk.js.map",
+    "static/js/3.fcd9eafb.chunk.js": "/folio/static/js/3.fcd9eafb.chunk.js",
+    "static/js/3.fcd9eafb.chunk.js.map": "/folio/static/js/3.fcd9eafb.chunk.js.map",
+    "index.html": "/folio/index.html",
+    "static/css/main.bea049f8.chunk.css.map": "/folio/static/css/main.bea049f8.chunk.css.map",
+    "static/js/2.bb289251.chunk.js.LICENSE.txt": "/folio/static/js/2.bb289251.chunk.js.LICENSE.txt",
+    "static/media/Resume.pdf": "/folio/static/media/Resume.877a0d43.pdf",
+    "static/media/USP.jpg": "/folio/static/media/USP.00160c3f.jpg",
+    "static/media/coding.gif": "/folio/static/media/coding.942a4024.gif",
+    "static/media/covid.gif": "/folio/static/media/covid.cd19f7c4.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e5430cca.js",
+    "static/js/2.bb289251.chunk.js",
+    "static/css/main.bea049f8.chunk.css",
+    "static/js/main.d886bbea.chunk.js"
+  ]
+}
