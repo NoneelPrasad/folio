@@ -9,8 +9,7 @@ function Footer() {
             
                I give credit where credit is due.
                <br/>* Big thanks to Overreacted ❤ for the ReactJS UI Guide
-               <br/>* uicons for the simple and minimal icons
-               <br/>* devicons for the beautiful icons on the skills sections
+               <br/>* uicons, devicons and iconscout for the simple and minimal icons
                <br/>* StorySet for the amazing image and animation
                <br/>* ColorSpace for the best 3 color gradient 
         </div>
