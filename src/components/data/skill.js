@@ -56,11 +56,6 @@ export const SkillsData = [
 
             },
             {
-                name: "POSTGRESQL",
-                icon :<i class="devicon-postgresql-plain"></i>
-
-            },
-            {
                 name: "ORACLE",
                 icon :<i class="devicon-oracle-original"></i>
 
