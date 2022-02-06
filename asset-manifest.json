@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/folio/static/css/main.5de9fb7f.chunk.css",
-    "main.js": "/folio/static/js/main.39dbf3dd.chunk.js",
-    "main.js.map": "/folio/static/js/main.39dbf3dd.chunk.js.map",
+    "main.js": "/folio/static/js/main.55fc4368.chunk.js",
+    "main.js.map": "/folio/static/js/main.55fc4368.chunk.js.map",
     "runtime-main.js": "/folio/static/js/runtime-main.00f6303b.js",
     "runtime-main.js.map": "/folio/static/js/runtime-main.00f6303b.js.map",
     "static/js/2.edbee5b6.chunk.js": "/folio/static/js/2.edbee5b6.chunk.js",
@@ -13,7 +13,7 @@
     "static/css/main.5de9fb7f.chunk.css.map": "/folio/static/css/main.5de9fb7f.chunk.css.map",
     "static/js/2.edbee5b6.chunk.js.LICENSE.txt": "/folio/static/js/2.edbee5b6.chunk.js.LICENSE.txt",
     "static/media/Digicel.jpg": "/folio/static/media/Digicel.522408ad.jpg",
-    "static/media/NoneelPrasadResume.pdf": "/folio/static/media/NoneelPrasadResume.fa6d5e7a.pdf",
+    "static/media/NP-Resume.pdf": "/folio/static/media/NP-Resume.979381bc.pdf",
     "static/media/USP.jpg": "/folio/static/media/USP.00160c3f.jpg",
     "static/media/coding.gif": "/folio/static/media/coding.942a4024.gif",
     "static/media/covid.gif": "/folio/static/media/covid.cd19f7c4.gif",
@@ -24,6 +24,6 @@
     "static/js/runtime-main.00f6303b.js",
     "static/js/2.edbee5b6.chunk.js",
     "static/css/main.5de9fb7f.chunk.css",
-    "static/js/main.39dbf3dd.chunk.js"
+    "static/js/main.55fc4368.chunk.js"
   ]
 }
